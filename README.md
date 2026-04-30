@@ -1,9 +1,6 @@
 markdown
 # Expense Tracker (Трекер расходов)
 
-**Автор:** markdown
-# Expense Tracker (Трекер расходов)
-
 **Автор:** Михалкин Анатолий
 
 ## Описание
