@@ -14,7 +14,7 @@ GUI-приложение для учёта личных расходов. Поз
 2. Склонируйте репозиторий:
 ```
 
-git clone <ссылка-на-репозиторий>
+git clone https://github.com/fpal83418-create/expense-tracker
 cd expense-tracker
 
 ```
