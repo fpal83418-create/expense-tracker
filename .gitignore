@@ -1,8 +1,23 @@
 gitignore
+# Python
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+# OS
 .DS_Store
-*.json
-!test_expenses.json
+Thumbs.db
+# Project specific
+*.log
+*.tmp
